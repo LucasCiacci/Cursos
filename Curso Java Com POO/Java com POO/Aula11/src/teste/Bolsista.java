@@ -1,0 +1,35 @@
+package teste;
+
+public class Bolsista extends Aluno {
+    //Atributos
+    private float bolsa;
+    
+    //Métodos
+    public void renovarBolsa() {
+        System.out.println("Renovando bolsa de " + this.nome);
+    }
+    
+    //Método sobreposto da classe-mãe Aluno
+    @Override
+    public void pagarMensalidade() {
+        System.out.println(this.nome + " é bolsista! Pagamento facilitado");
+    }
+    
+    //Getters e Setters
+    //bolsa
+    public float getBolsa() {
+        return bolsa;
+    }
+    public void setBolsa(float bolsa) {
+        this.bolsa = bolsa;
+    }
+    
+    //Método toString
+    @Override
+    public String toString() {
+        return "Aluno Bolsista{" + "nome=" + nome + ", idade=" + idade + ", sexo=" + sexo + 
+                " matricula=" + matricula + ", curso=" + curso + 
+                " bolsa=" + bolsa + '}';
+    }
+    
+}
