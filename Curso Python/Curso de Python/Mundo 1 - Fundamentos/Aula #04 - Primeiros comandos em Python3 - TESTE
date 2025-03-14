@@ -1,0 +1,39 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+print('Olá, Mundo!')
+Olá, Mundo!
+print(Olá, Mundo!)
+SyntaxError: invalid syntax
+print(7+4)
+11
+print('7' + '4')
+74
+7+4
+11
+>>> '7'+'4'
+'74'
+>>> print('Olá' + 5)
+Traceback (most recent call last):
+  File "<pyshell#6>", line 1, in <module>
+    print('Olá' + 5)
+TypeError: can only concatenate str (not "int") to str
+>>> print('Olá', 5)
+Olá 5
+>>> nome = 'Lucas'
+>>> idade = 20
+>>> peso = 84.5
+>>> print(nome, idade, peso)
+Lucas 20 84.5
+>>> print(nome + idade + peso)
+Traceback (most recent call last):
+  File "<pyshell#12>", line 1, in <module>
+    print(nome + idade + peso)
+TypeError: can only concatenate str (not "int") to str
+>>> nome = input('Qual é o seu nome? ')
+Qual é o seu nome? Lucas
+>>> idade = input('Quantos anos você tem? ')
+Quantos anos você tem? 21
+>>> peso = input('Qual é o seu peso? ')
+Qual é o seu peso? 85
+>>> print(nome, idade, peso)
+Lucas 21 85
