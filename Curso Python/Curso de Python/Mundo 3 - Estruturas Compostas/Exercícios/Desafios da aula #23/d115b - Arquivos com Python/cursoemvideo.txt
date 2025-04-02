@@ -1,0 +1,6 @@
+Lucas; 20
+Gustavo; 41
+Pedro; 35
+Ana; 22
+Maria; 15
+Paula; 25
