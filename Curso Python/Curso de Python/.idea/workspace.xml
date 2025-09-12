@@ -30,31 +30,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula #11 - Cores no Terminal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula #23 - Tratamento de Erros e Exceções.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.d023 - Separando dígitos de um número.executor&quot;: &quot;Run&quot;,
-    &quot;Python.d024 - Verificando as primeiras letras de um texto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.principal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciacc/OneDrive/Área de Trabalho/Lucas_Ciacci/COMPUTER SCIENCE/Cursos/Curso Python/Curso de Python/Mundo 3 - Estruturas Compostas/Exercícios/Desafios da aula #23&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula #11 - Cores no Terminal.executor": "Run",
+    "Python.Aula #23 - Tratamento de Erros e Exceções.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.d023 - Separando dígitos de um número.executor": "Run",
+    "Python.d024 - Verificando as primeiras letras de um texto.executor": "Run",
+    "Python.d031 - Custo da Viagem.executor": "Run",
+    "Python.d053 - Detector de Palíndromo.executor": "Run",
+    "Python.d053b - Detector de Palíndromo.executor": "Run",
+    "Python.principal.executor": "Run",
+    "Python.sistema.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ciacc/OneDrive/Área de Trabalho/Lucas_Ciacci/COMPUTER SCIENCE/Cursos/Curso Python/Curso de Python/Mundo 2 - Estruturas de Controle/Exercícios/Desafios da aula #13",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ciacc\OneDrive\Área de Trabalho\Lucas_Ciacci\COMPUTER SCIENCE\Cursos\Curso Python\Curso de Python\Mundo 2 - Estruturas de Controle\Exercícios\Desafios da aula #13" />
       <recent name="C:\Users\ciacc\OneDrive\Área de Trabalho\Lucas_Ciacci\COMPUTER SCIENCE\Cursos\Curso Python\Curso de Python\Mundo 3 - Estruturas Compostas\Exercícios\Desafios da aula #23" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-2ee2454479a3-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.122" />
       </set>
     </attachedChunks>
   </component>
