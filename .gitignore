@@ -1,0 +1,27 @@
+# ========== IDEs ==========
+.idea/
+nbproject/
+*.iml
+
+# ========== Python ==========
+__pycache__/
+*.pyc
+venv/
+venv01/
+.env/
+
+# ========== Java ==========
+build/
+dist/
+*.class
+build.xml
+manifest.mf
+
+# ========== C ==========
+*.exe
+*.o
+*.out
+
+# ========== Sistema ==========
+.DS_Store
+Thumbs.db
