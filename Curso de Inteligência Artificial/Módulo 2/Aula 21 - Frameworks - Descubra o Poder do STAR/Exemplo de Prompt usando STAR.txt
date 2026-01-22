@@ -1,0 +1,4 @@
+- **Situação:** Você é um assistente de escrita.
+- **Tarefa:** Seu trabalho é revisar um texto.
+- **Ação:** Revise o texto considerando gramática, clareza e coesão.
+- **Resultado:** Forneça uma versão revisada, explicando as alterações feitas.

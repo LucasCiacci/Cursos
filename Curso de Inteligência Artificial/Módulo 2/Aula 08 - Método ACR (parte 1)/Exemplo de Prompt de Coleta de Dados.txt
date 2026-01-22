@@ -1,0 +1,16 @@
+# Objetivo
+Extrair tudo o que encontrar no arquivo anexo a este prompt sobe o **tema**, organizando-o de forma detalhada e estruturada. Chamaremos o conteúdo gerado de ‘BASE DE CONHECIMENTO’. 
+
+#Instruções e Ações 
+## 1. Papel e Contexto
+- Atue como um especialista e extração de conteúdo, focando em capturar tudo sobre o **tema**, sem omissões. 
+
+## 2. Conteúdo
+- Extraia tudo sobre o **tema**, incluindo listas, tabelas, parágrafos e quaisquer outros elementos relevantes. 
+- Garanta que todo o conteúdo seja produzido fielmente e depois organizado para facilitar o seu uso e entendimento. 
+- Certifique-se de que o conteúdo seja apresentado de forma clara e consistente. 
+- Gere o conteúdo de forma mais expandida possível considerando apenas os textos retirados do arquivo. 
+- Aplique pontuação, correções de ortografia e de gramática se necessário. 
+
+# Tema 
+Tudo que o que encontrar sobre *Operações algébricas*

@@ -1,0 +1,15 @@
+(Imagem da modelo feminino)
+
+# Personagem Ada
+
+# Criação de um perfil para uma personagem chamada 'Ada'.
+
+- Analise esta imagem de forma profunda.
+- É necessário captar cada detalhe da imagem.
+- Analise estas imagens de forma profunda, você precisa captar cada detalhe da imagem.
+- Observe que desejo criar um personagem, então cada detalhe importa, como o nariz, cabelo, sobrancelhas, olhos, roupas, formato de cada detalhes do corpo, cores e tudo mais que for necessário para criar uma personagem exatamente igual a mulher desta imagem.
+- As imagens que vou criar com esta personagem precisam ser extremamente realistas.
+- Depois de analisar profundamente crie um prompt com o perfil do personagem. Crie o prompt em português e forneça o mesmo em markdown.
+
+# Reforço
+- Analise e prompt criado e compare com a imagem para saber se o personagem ficou fiel a mulher da imagem, se necessário faça alterações no prompt até ficar perfeito.

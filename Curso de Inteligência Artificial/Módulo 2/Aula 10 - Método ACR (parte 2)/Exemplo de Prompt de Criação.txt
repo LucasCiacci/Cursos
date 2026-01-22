@@ -1,0 +1,3 @@
+- Explique o conceito de **Operações Algébricas** para um estudante do ensino médio de forma clara e com exemplos práticos.
+- Use uma linguagem simples e divertida.
+- Utilize exclusivamente os conteúdos fornecidos na 'BASE DE CONHECIMENTO'.

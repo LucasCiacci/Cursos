@@ -1,0 +1,23 @@
+(Imagem da poltrona)
+(Imagem do sofá)
+(Imagem da estante)
+(Imagem da televisão)
+(Imagem do quadro e cactos)
+
+- Quero mobiliar a sala desta última imagem gerada com as mobílias das fotos anexadas. 
+
+# Detalhes da imagem
+Adicione na imagem os itens:
+- Poltrona e mesinha (sem a xícara)
+- Sofá
+- Televisão
+- Estante
+- Plantas e enfeites
+- Quadro
+
+# Resultado esperado
+Posicione tudo de forma elegante e envolvente como um decorador de ambientes faria.
+Adicione um tapete no centro da sala que combine com as cores da mobília.
+- Crie uma imagem estilo cinematográfica, buscando a iluminação perfeita como um fotógrafo profissional faria.
+- A sala obrigatoriamente tem que ficar igual em cores e estrutura da última imagem gerada.
+- Todos os itens que serão adicionados devem ser idênticos as imagens anexadas.

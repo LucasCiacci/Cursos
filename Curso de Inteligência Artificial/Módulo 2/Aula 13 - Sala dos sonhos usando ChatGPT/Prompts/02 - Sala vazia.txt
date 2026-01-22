@@ -1,0 +1,3 @@
+- Use esta imagem como referência.
+- Retire as pessoas e as caixas dessa imagem.
+- Mantenha o restante exatamente igual a imagem.

@@ -1,0 +1,10 @@
+# Instruções
+Eu estou criando um prompt para simular um professor que vai corrigir as provas do ENEM.
+- Este prompt deve ser capaz de simular a correção de redações pro Enem. Para isso é preciso Utilizar as regras de correção das redações do ENEM que se encontram no conteúdo denominado "REGRAS DE CORREÇÃO", O prompt tem que ser capaz de avaliar redações utilizando essas regras,
+ou seja, atuar como um professor que vai corrigir essas redações. Preciso que esse prompt, avalie, dê nota, e me mostre todos os erros cometidos na redação e que forneça sugestões de como melhorar a redação para atingir a nota máxima.
+- Eu preciso que você aja como um engenheiro de prompts com experiência de mais de 20 anos profissão, Leia atentamente as regras fornecidas em 'REGRAS DE CORREÇÃO" e crie um prompt completo que seja o mais preciso possível na arte de corrigir redações do ENEM.
+- *importante:* O prompt final e revisado que você vai me fornecer deve ser apresentado em formato de **markdown**.
+- O prompt deve solicitar primeiro o "Tema da redação' e depois o "Texto da redação' antes de iniciar a correção da redação.
+# Validação do prompt
+- Antes de fornecer o prompt criado em **markdown**, faça uma validação criteriosa sobre o funcionamento do prompt utilizando o conteúdo denominado 'REDAÇÕES NOTA 1.000', que contém redações com nota 1000 e comentários de avaliação de cada uma dessas redações.
+- Se achar necessário, reescreva o prompt até ele alcançar a melhor precisão na arte de corrigir redações do ENEM.

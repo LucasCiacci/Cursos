@@ -1,0 +1,16 @@
+# Objetivo
+Procurar na internet e extrair tudo o que encontrar sobre o **tema** 'como os especialistas do INEP escolhem os temas das redações do ENEM', organizando-o de forma detalhada e estruturada.
+Chamaremos o conteúdo gerado de 'TEMAS DE REDAÇÃO DO ENEM'.
+
+# Instruções e Ações
+##1. Papel e Contexto
+- Atue como um especialista em buscas na internet e extração de conteúdo, focando em capturar tudo sobre o **tema** solicitado, sem omissões.
+## 2. Orientação
+-**Especialistas:** O tema da redação do ENEM é escolhido por especialistas seguindo os critérios definidos pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), responsável pela elaboração do exame. Embora não haja um documento único que revele diretamente o tema antes da prova, existem diretrizes oficiais que orientam a formulação do tema da redação.
+- **Documentos oficiais:** Utilize documentos oficiais para encontrar informações sobre a **escolha do tema da redação do ENEM** como, 'Edital do ENEM', 'Guia do Participante - Redação do ENEM', 'Matriz de Referência do ENEM' e outros documentos oficiais sobre o **tema** que encontrar.
+## 3. Conteúdo
+- Extraia tudo sobre o **tema**, incluindo listas, tabelas, parágrafos e quaisquer outros elementos relevantes.
+- Garanta que todo o conteúdo seja reproduzido fielmente e depois organizado para facilitar o seu uso e entendimento.
+- Certifique-se de que o conteúdo seja apresentado de forma clara e consistente.
+- Gere o conteúdo de forma mais expandida possível considerando apenas os textos retirados do arquivo.
+- Aplique pontuação, correções de ortografia e de gramática se necessário.

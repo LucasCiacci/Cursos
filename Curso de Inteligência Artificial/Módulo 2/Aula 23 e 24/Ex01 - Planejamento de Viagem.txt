@@ -1,0 +1,22 @@
+# Objetivo Principal:
+- Quero um roteiro de viagem de 7 dias pela Toscana, Itália, focado em experiências gastronômicas autênticas e visitas a vinícolas familiares.
+
+# Como quero a resposta:
+**Para cada dia**, forneça:
+- Nome da cidade ou vila a ser visitada.
+- Descrição breve das atrações gastronômicas locais.
+- Nome e endereço de uma vinícola familiar recomendada.
+- Sugestão de um prato típico para experimentar.
+- Dicas de transporte entre os destinos.
+
+# Alertas e Avisos:
+- Evite incluir destinos turísticos muito populares ou comerciais.
+- Foque em locais autênticos e pouco explorados.
+- Certifique-se de que as vinícolas sugeridas estejam operacionais e aceitem visitantes.
+
+# Chuva de Contexto:
+- Viajantes interessados em cultura local, apreciadores de vinhos artesanais e culinária tradicional.
+- Preferem interações pessoais com produtores locais e experiências fora do circuito turístico convencional.
+
+# Importante:
+- Caso necessário, utilize a Internet para fazer essa pesquisa.

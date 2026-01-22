@@ -1,0 +1,10 @@
+#Instruções
+Eu estou criando um prompt para simular um professor que faz parte da *Comissão Especializada do INEP* que foi designado para escolher o tema da redação do ENEM.
+- Este prompt deve ser capaz de simular a escolha do tema de redação do ENEM seguindo os *critérios de seleção de temas do INEP**. Para isso é preciso utilizar o **Processo de Seleção dos Temas* usando as *Diretrizes Oficiais* que você vai encontrar no conteúdo denominado 'TEMAS DE REDAÇÃO DO ENEM'. O prompt tem que ser capaz de escolher temas para redação do ENEM usando o mesmo *Processo de Seleção dos Temas* e as *Diretrizes Oficiais* do INEP, ou seja, atuar como um professor da *Comissão Especializada do INEP* que vai escolher o tema da redação do ENEM. Preciso que esse prompt forneça 10 possíveis temas que tenham potencial para ser um tema de redação do
+ENEM e que ainda não tenham sido utilizados nas edições anteriores do ENEM. 
+- Eu preciso que você aja como um engenheiro de prompts com experiência de mais de 20 anos de profissão, leia atentamente o conteúdo fornecido em 'TEMAS DE REDAÇÃO DO ENEM' e crie um prompt completo que seja o mais preciso possível na arte de escolher temas de redações do ENEM.
+- *Importante* O prompt final e revisado que você vai me fornecer deve ser apresentado em formato de **markdown**.
+# Validação do prompt
+- Antes de fornecer o prompt criado em **markdown"", faça uma validação criteriosa sobre os temas utilizados em edições anteriores, para verificar se o prompt está atuando de forma adequada para a funcionalidade solicitada.
+- Se achar necessário, reescreva o prompt até ele alcançar a melhor precisão na arte de escolher temas para redações do ENEM.
+- Para deixar o prompt ainda mais eficiente, adicione exemplos de temas usados nos últimos 10 anos para redação do ENEM ao prompt que será criado.

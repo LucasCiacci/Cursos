@@ -1,0 +1,9 @@
+(Imagem do Guanabinha 1)
+(Imagem do Guanabinha 2)
+
+# Personagem: Guanabinha
+Analise estas imagens de forma profunda, você precisa captar cada detalhe da imagem. Observe que se trata de um personagem, então cada detalhe importa, como o nariz, cabelo, barba, bigode, sobrancelhas, olhos, óculos, tatuagens nos braços, formato de cada detalhes do corpo, cores, texturas e tudo mais que for necessário para recriar exatamente este mesmo personagem.
+
+O nome deste personagem é Guanabinha.
+
+Crie um prompt em markdown com o perfil deste personagem para que eu possa usar para criar outras imagens com esse personagem.

@@ -1,0 +1,1 @@
+Agora gere um podcast chamado "Noticias de IA", onde os apresentadores falem logo no inicio o período analisado (de DD/MM/AAAA a DD/MM/AAAA) e comentem todas as noticias das fontes selecionadas de uma maneira leve e descontraída, focando principalmente das principais características de cada noticia e na sua relevância para o mercado de IA.
